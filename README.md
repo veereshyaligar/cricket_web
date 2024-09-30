@@ -1,8 +1,8 @@
-# Your11 
+# Cricket11 
 
 
 
-Your 11 is a full stack application  build and deployed, which is inspired by Dream 11. 
+Cricket11 is a full stack application  build and deployed, which is inspired by Dream 11. 
 
 ##  website ->  [link](https://mighty-wildwood-01254.herokuapp.com/)
 ## Features
